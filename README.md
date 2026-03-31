@@ -13,6 +13,7 @@ The project includes:
 
 ## Repository Structure
 
+```
 ├── Queuing model/
 │   ├── MM1_infinitebuffer.py
 │   ├── MM1_finitebuffer.py
@@ -27,6 +28,7 @@ The project includes:
 │   ├── Warm-up transient.py
 │   └── 2024_MCDSN_lab2.pdf
 └── Report on Drone-assisted communication.pdf
+```
 
 ## Main Features
 - event-driven simulations for queueing systems
